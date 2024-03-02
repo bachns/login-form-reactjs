@@ -1,4 +1,4 @@
-![](preview.png)
+![](preview.jpg)
 
 ### `npm start`
 
